@@ -1,0 +1,6 @@
+{
+  "name": "Nanay — An Archival Memoir",
+  "description": "An heirloom archival birthday memoir celebrating Nanay's 42nd birthday, journeys, and cherished memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
